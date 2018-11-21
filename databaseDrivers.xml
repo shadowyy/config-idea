@@ -1,0 +1,437 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="163">
+    <driver id="db2">
+      <artifact name="DB2" use="true" />
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="db2.jtopen">
+      <artifact name="JTOpen (DB2 iSeries)" use="true" />
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="derby.remote">
+      <artifact name="Apache Derby" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="derby.embedded">
+      <artifact name="Apache Derby" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="azure.ms">
+      <artifact name="SQL Server" use="true" />
+      <option name="auto-sync" value="true" />
+      <option name="send-app-info" value="false" />
+    </driver>
+    <driver id="sqlserver.ms">
+      <artifact name="SQL Server" use="true" />
+      <option name="auto-sync" value="true" />
+      <option name="send-app-info" value="false" />
+    </driver>
+    <driver id="sqlserver.jtds">
+      <artifact name="jTDS (SQL Server and Sybase)" use="true" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <code-style-scheme-name>Default</code-style-scheme-name>
+    </driver>
+    <driver id="sybase.jtds">
+      <artifact name="jTDS (SQL Server and Sybase)" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="sybase.ase">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="mysql">
+      <artifact name="MySQL Connector/J" use="true" version="5.1.46" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <code-style-scheme-name>Default</code-style-scheme-name>
+    </driver>
+    <driver id="mariadb">
+      <artifact name="MariaDB Connector J" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="oracle">
+      <artifact name="Oracle" use="true" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="false" />
+    </driver>
+    <driver id="postgresql">
+      <artifact name="PostgreSQL" use="true" />
+      <option name="auto-sync" value="true" />
+      <option name="schema-control" value="MANUAL" />
+    </driver>
+    <driver id="redshift">
+      <artifact name="Redshift" use="true" />
+      <option name="auto-sync" value="true" />
+      <option name="schema-control" value="MANUAL" />
+    </driver>
+    <driver id="hsqldb.remote">
+      <artifact name="HSQLDB" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="hsqldb.local">
+      <artifact name="HSQLDB" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="h2.unified">
+      <artifact name="H2" use="true" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <code-style-scheme-name>Default</code-style-scheme-name>
+    </driver>
+    <driver id="sqlite.xerial">
+      <artifact name="Xerial SQLiteJDBC" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="exasol">
+      <artifact name="Exasol" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="clickhouse">
+      <artifact name="ClickHouse" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="java.sql.Driver" name="hive2" driver-class="org.apache.hive.jdbc.HiveDriver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <library>
+        <url>file://C:/bigdata/hive/lib/accumulo-core-1.6.0.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/accumulo-fate-1.6.0.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/accumulo-start-1.6.0.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/accumulo-trace-1.6.0.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/activation-1.1.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/ant-1.9.1.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/ant-launcher-1.9.1.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/antlr-2.7.7.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/antlr-runtime-3.4.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/apache-log4j-extras-1.2.17.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/asm-commons-3.1.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/asm-tree-3.1.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/avro-1.7.5.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/bonecp-0.8.0.RELEASE.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/calcite-avatica-1.2.0-incubating.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/calcite-core-1.2.0-incubating.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/calcite-linq4j-1.2.0-incubating.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/commons-beanutils-1.7.0.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/commons-beanutils-core-1.8.0.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/commons-cli-1.2.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/commons-codec-1.4.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/commons-collections-3.2.2.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/commons-compiler-2.7.6.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/commons-compress-1.4.1.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/commons-configuration-1.6.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/commons-dbcp-1.4.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/commons-digester-1.8.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/commons-httpclient-3.0.1.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/commons-io-2.4.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/commons-lang-2.6.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/commons-logging-1.1.3.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/commons-math-2.1.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/commons-pool-1.5.4.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/commons-vfs2-2.0.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/curator-client-2.6.0.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/curator-framework-2.6.0.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/curator-recipes-2.6.0.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/datanucleus-api-jdo-3.2.6.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/datanucleus-core-3.2.10.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/datanucleus-rdbms-3.2.9.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/derby-10.10.2.0.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/eigenbase-properties-1.1.5.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/geronimo-annotation_1.0_spec-1.1.1.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/geronimo-jaspic_1.0_spec-1.0.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/geronimo-jta_1.1_spec-1.1.1.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/groovy-all-2.1.6.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/guava-14.0.1.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/hamcrest-core-1.1.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/hive-accumulo-handler-1.2.2.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/hive-ant-1.2.2.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/hive-beeline-1.2.2.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/hive-cli-1.2.2.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/hive-common-1.2.2.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/hive-contrib-1.2.2.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/hive-exec-1.2.2.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/hive-hbase-handler-1.2.2.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/hive-hwi-1.2.2.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/hive-jdbc-1.2.2-standalone.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/hive-jdbc-1.2.2.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/hive-metastore-1.2.2.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/hive-serde-1.2.2.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/hive-service-1.2.2.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/hive-shims-0.20S-1.2.2.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/hive-shims-0.23-1.2.2.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/hive-shims-1.2.2.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/hive-shims-common-1.2.2.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/hive-shims-scheduler-1.2.2.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/hive-testutils-1.2.2.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/httpclient-4.4.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/httpcore-4.4.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/ivy-2.4.0.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/janino-2.7.6.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/jcommander-1.32.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/jdo-api-3.0.1.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/jetty-all-7.6.0.v20120127.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/jetty-all-server-7.6.0.v20120127.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/jline-2.12.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/joda-time-2.5.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/jpam-1.1.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/json-20090211.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/jsr305-3.0.0.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/jta-1.1.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/junit-4.11.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/libfb303-0.9.2.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/libthrift-0.9.2.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/log4j-1.2.16.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/mail-1.4.1.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/maven-scm-api-1.4.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/maven-scm-provider-svn-commons-1.4.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/maven-scm-provider-svnexe-1.4.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/mysql-connector-java-5.1.47.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/netty-3.7.0.Final.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/opencsv-2.3.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/oro-2.0.8.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/paranamer-2.3.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/parquet-hadoop-bundle-1.6.0.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/pentaho-aggdesigner-algorithm-5.1.5-jhyde.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/plexus-utils-1.5.6.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/regexp-1.3.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/servlet-api-2.5.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/snappy-java-1.0.5.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/ST4-4.0.4.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/stax-api-1.0.1.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/stringtemplate-3.2.1.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/super-csv-2.2.0.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/tempus-fugit-1.1.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/velocity-1.5.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/xz-1.0.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hive/lib/zookeeper-3.4.6.jar</url>
+      </library>
+      <library>
+        <url>file://C:/bigdata/hadoop/share/hadoop/common/hadoop-common-2.7.1.jar</url>
+      </library>
+      <code-style-scheme-name>Default</code-style-scheme-name>
+    </driver>
+  </component>
+</application>

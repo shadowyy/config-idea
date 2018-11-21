@@ -1,0 +1,72 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="引号" />
+      <item value="followed by `|` from the line." />
+      <item value="Strip a leading prefix consisting of blanks or control characters" />
+      <item value="For every line in this string:" />
+      <item value="** For every line in this string: * * Strip a leading prefix consisting of blanks or control characters * followed by `|` from the line." />
+      <item value="可以在方法名后面加一个空格和下划线" />
+      <item value="省略了吧" />
+      <item value="其实这也是个匿名函数" />
+      <item value="显示地告诉编译器这是个函数" />
+      <item value="方法转函数" />
+      <item value="* Returns the minimal range which {@linkplain Range#encloses(Range) encloses} all ranges * in this range set." />
+      <item value="号码总量" />
+      <item value="命中" />
+      <item value="unknow" />
+      <item value="变化的" />
+      <item value="String" />
+      <item value="mutable" />
+      <item value="immutable" />
+      <item value="mutate" />
+      <item value="mutated" />
+      <item value="greet Strings" />
+      <item value="分布式" />
+      <item value="scratch" />
+      <item value="镜像" />
+      <item value="转义无效" />
+      <item value="转义" />
+      <item value="问号" />
+      <item value="统一" />
+      <item value="hasArg flag signally if an argument is required after this option *" />
+      <item value="顺序" />
+      <item value="区域" />
+      <item value="基础组件" />
+      <item value="Preloan" />
+      <item value="Create a new client that connects to the supplied uri with default {@link ClientResources}. You can connect to different * Redis servers but you must supply a {@link RedisURI} on connecting." />
+      <item value="* If true, and the appropriate binding is not found, the Injector will skip injection of this * method or field rather than produce an error. When applied to a field, any default value * already assigned to the field will remain (guice will not actively null out the field). When * applied to a method, the method will only be invoked if bindings for &lt;i&gt;all&lt;/i&gt; parameters are * found. When applied to a constructor, an error will result upon Injector creation. */" />
+      <item value="* Netty client for the requests and responses" />
+      <item value="/** * Does RPC against a cluster. Manages connections per regionserver in the cluster. * &lt;p&gt;See HBaseServer" />
+      <item value="常量" />
+      <item value="addresses" />
+      <item value="lease Time" />
+      <item value="宕机" />
+      <item value="* An interface controlling synchronization of configuration instances." />
+      <item value="* Constructs a YAML map, i.e. String -&amp;gt; Object from a given configuration * node." />
+      <item value="* Constructs a YAML map, i.e. String -&amp;gt; Object from a given configuration" />
+      <item value="* Queue up offset ranges for commit to Kafka at a future time. Threadsafe. * This is only needed if you intend to store offsets in Kafka, instead of your own store. * @param offsetRanges The maximum untilOffset for a given partition will be used at commit. */" />
+      <item value="* Tweak kafka params to prevent issues on executors" />
+      <item value="Note that `muted` is only ever populated if `" />
+      <item value="* Queue up offset ranges for commit to Kafka at a future time. Threadsafe. * This is only needed if you intend to store offsets in Kafka, instead of your own store. * @param offsetRanges The maximum untilOffset for a given partition will be used at commit." />
+      <item value="* A key/value pair to be received from Kafka. This also consists of a topic name and * a partition number from which the record is being received, an offset that points * to the record in a Kafka partition, and a timestamp as marked by the corresponding ProducerRecord." />
+      <item value="* An experimental user-facing API. * * Experimental API's might change or be removed in minor versions of Spark, or be adopted as * first-class Spark API's. * * NOTE: If there exists a Scaladoc comment that immediately precedes this annotation, the first * line of the comment must be &quot;:: Experimental ::&quot; with no trailing blank line. This is because * of the known issue that Scaladoc displays only either the annotation or the comment, whichever * comes first. */" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="103" />
+        <entry key="DANISH" value="1" />
+        <entry key="GERMAN" value="1" />
+        <entry key="MALAY" value="2" />
+        <entry key="SWEDISH" value="1" />
+        <entry key="HINDI" value="1" />
+        <entry key="INDONESIAN" value="1" />
+        <entry key="VIETNAMESE" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>

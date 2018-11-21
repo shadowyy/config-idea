@@ -1,0 +1,103 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CompilerConfiguration">
+        <annotationProcessing>
+          <profile default="true" name="Default" enabled="true" />
+        </annotationProcessing>
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="C:/code/hippocampus" value="PREVIEW" />
+            <entry key="C:/code/java/gs-yarn-basic-single/complete" value="PREVIEW" />
+            <entry key="C:/code/java/itchat4j" value="PREVIEW" />
+            <entry key="C:/code/java/mouth" value="PREVIEW" />
+            <entry key="C:/code/java/spring-hadoop" value="PREVIEW" />
+            <entry key="C:/code/java/spring-xd-samples/spark-streaming-wordcount-java-processor" value="PREVIEW" />
+            <entry key="C:/code/java/vein" value="PREVIEW" />
+            <entry key="C:/code/java/veindemo" value="PREVIEW" />
+            <entry key="C:/code/yarn-test" value="PREVIEW" />
+            <entry key="C:/projects/ayu" value="PREVIEW" />
+            <entry key="C:/projects/demo" value="PREVIEW" />
+            <entry key="C:/projects/ganglia" value="PREVIEW" />
+            <entry key="C:/projects/gradle-multi-project-example" value="PREVIEW" />
+            <entry key="C:/projects/kunlun" value="PREVIEW" />
+            <entry key="C:/projects/manta" value="PREVIEW" />
+            <entry key="C:/projects/marlin" value="PREVIEW" />
+            <entry key="C:/projects/multi-project" value="PREVIEW" />
+            <entry key="C:/projects/spring-yarn-boot-demo" value="PREVIEW" />
+            <entry key="C:/projects/spring-yarn-boot-multi-project" value="PREVIEW" />
+            <entry key="C:/projects/spring-yarn-test" value="PREVIEW" />
+            <entry key="C:/projects/vein" value="PREVIEW" />
+            <entry key="C:/projects/weever" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <other-services-enabled>true</other-services-enabled>
+        <auto-save>true</auto-save>
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="C:/dev/maven" />
+            <option name="userSettingsFile" value="C:\dev\maven\conf\settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="ProjectLevelVcsManager">
+        <ConfirmationsSetting value="2" id="Add" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
+      </component>
+      <component name="RunManager">
+        <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMPath" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
