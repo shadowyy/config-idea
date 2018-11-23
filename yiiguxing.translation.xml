@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="收件人群组" />
       <item value="模版" />
       <item value="抄送" />
       <item value="收件人" />
@@ -50,12 +51,11 @@
       <item value="* Constructs a YAML map, i.e. String -&amp;gt; Object from a given configuration * node." />
       <item value="* Constructs a YAML map, i.e. String -&amp;gt; Object from a given configuration" />
       <item value="* Queue up offset ranges for commit to Kafka at a future time. Threadsafe. * This is only needed if you intend to store offsets in Kafka, instead of your own store. * @param offsetRanges The maximum untilOffset for a given partition will be used at commit. */" />
-      <item value="* Tweak kafka params to prevent issues on executors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="108" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="MALAY" value="2" />
