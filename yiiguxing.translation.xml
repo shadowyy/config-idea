@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="报表" />
       <item value="索引" />
       <item value="sent" />
       <item value="sent email" />
@@ -50,7 +51,6 @@
       <item value="* If true, and the appropriate binding is not found, the Injector will skip injection of this * method or field rather than produce an error. When applied to a field, any default value * already assigned to the field will remain (guice will not actively null out the field). When * applied to a method, the method will only be invoked if bindings for &lt;i&gt;all&lt;/i&gt; parameters are * found. When applied to a constructor, an error will result upon Injector creation. */" />
       <item value="* Netty client for the requests and responses" />
       <item value="/** * Does RPC against a cluster. Manages connections per regionserver in the cluster. * &lt;p&gt;See HBaseServer" />
-      <item value="常量" />
     </histories>
     <option name="languageScores">
       <map>
