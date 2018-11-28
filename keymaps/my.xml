@@ -15,6 +15,7 @@
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
   </action>
+  <action id="ContextHelp" />
   <action id="CopyPaths">
     <keyboard-shortcut first-keystroke="shift ctrl alt c" />
   </action>
@@ -28,7 +29,7 @@
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="EditSource">
-    <keyboard-shortcut first-keystroke="f12" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="ctrl 1" />
