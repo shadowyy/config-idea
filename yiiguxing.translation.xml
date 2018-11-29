@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Set whether to validate all addresses which get passed to this helper. * Default is &quot;false&quot;. * &lt;p&gt;Note that this is by default just available for JavaMail &gt;= 1.3. * You can override the default {@code validateAddress method} for * validation on older JavaMail ve" />
       <item value="* A Configuration object for customize default settings. If {@link #configLocation} * is specified, this property is not used." />
       <item value="* Execution mode for {@link org.mybatis.spring.SqlSessionTemplate}." />
       <item value="* Indicates whether perform presence check of the MyBatis xml config file." />
@@ -50,12 +51,11 @@
       <item value="区域" />
       <item value="基础组件" />
       <item value="Preloan" />
-      <item value="Create a new client that connects to the supplied uri with default {@link ClientResources}. You can connect to different * Redis servers but you must supply a {@link RedisURI} on connecting." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="118" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="MALAY" value="2" />
