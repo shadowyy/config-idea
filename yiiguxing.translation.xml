@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Represents a version number plus the further qualifiers and build info. This is * mostly used for representing a FreeMarker version number, but should also be able * to parse the version strings of 3rd party libraries. * *" />
       <item value="re Send" />
       <item value="* Set whether to validate all addresses which get passed to this helper. * Default is &quot;false&quot;. * &lt;p&gt;Note that this is by default just available for JavaMail &gt;= 1.3. * You can override the default {@code validateAddress method} for * validation on older JavaMail ve" />
       <item value="* A Configuration object for customize default settings. If {@link #configLocation} * is specified, this property is not used." />
@@ -50,12 +51,11 @@
       <item value="hasArg flag signally if an argument is required after this option *" />
       <item value="顺序" />
       <item value="区域" />
-      <item value="基础组件" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="MALAY" value="2" />
