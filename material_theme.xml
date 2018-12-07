@@ -1,9 +1,26 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactDropdowns" value="true" />
+    <option name="compactSidebar" value="true" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isHighContrast" value="true" />
+    <option name="isTabsShadow" value="false" />
     <option name="isWizardShown" value="true" />
-    <option name="selectedTheme" value="ARC_DARK" />
+    <option name="monochromeIcons" value="true" />
+    <option name="upperCaseButtons" value="false" />
+    <option name="tabOpacity" value="97" />
+    <option name="indicatorThickness" value="5" />
+    <option name="leftTreeIndent" value="4" />
+    <option name="rightTreeIndent" value="8" />
+    <option name="tabsHeight" value="20" />
+    <option name="accentColor" value="5866e9" />
+    <option name="highlightColor" value="0c2fe9" />
+    <option name="selectedTheme" value="SOLARIZED_DARK" />
     <option name="userId" value="71c371ce:16786e8a758:-8000" />
     <option name="version" value="3.0.0-rc4" />
   </component>
