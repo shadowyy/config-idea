@@ -1,5 +1,10 @@
 <application>
   <component name="libraryTable">
+    <library name="2.7 @ Ubuntu interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Python 2.7 interpreter library">
       <CLASSES>
         <root url="file://C:/Python27/DLLs" />
