@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="//Can be override by one of class children and you will see child class name in log. Sometimes it can be confusing because log actually is performed in parent class" />
+      <item value="Advice" />
       <item value="comma" />
       <item value="sord" />
       <item value="附件" />
@@ -49,8 +51,6 @@
       <item value="unknow" />
       <item value="变化的" />
       <item value="String" />
-      <item value="mutable" />
-      <item value="immutable" />
     </histories>
     <option name="languageScores">
       <map>
