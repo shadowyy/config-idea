@@ -34,4 +34,12 @@
       <option name="SQL" value="true" />
     </context>
   </template>
+  <template name="del" value="DELETE FROM $table$ WHERE $col$ = $value$ $END$;" description="delete" toReformat="false" toShortenFQNames="true">
+    <variable name="table" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="col" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
 </templateSet>
