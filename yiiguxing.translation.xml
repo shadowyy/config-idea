@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This will offer * you a more sophisticated interface than the plain {@link EntityManager} ." />
+      <item value="* Default implementation of the {@link org.springframework.data.repository.CrudRepository} interface. This will offer * you a more sophisticated interface than the plain {@link EntityManager} ." />
       <item value="Expiretime" />
       <item value="identity" />
       <item value="聚合" />
@@ -49,8 +51,6 @@
       <item value="显示地告诉编译器这是个函数" />
       <item value="方法转函数" />
       <item value="* Returns the minimal range which {@linkplain Range#encloses(Range) encloses} all ranges * in this range set." />
-      <item value="号码总量" />
-      <item value="命中" />
     </histories>
     <option name="languageScores">
       <map>
