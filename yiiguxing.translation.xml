@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pagination" />
       <item value="This will offer * you a more sophisticated interface than the plain {@link EntityManager} ." />
       <item value="* Default implementation of the {@link org.springframework.data.repository.CrudRepository} interface. This will offer * you a more sophisticated interface than the plain {@link EntityManager} ." />
       <item value="Expiretime" />
@@ -50,12 +51,11 @@
       <item value="其实这也是个匿名函数" />
       <item value="显示地告诉编译器这是个函数" />
       <item value="方法转函数" />
-      <item value="* Returns the minimal range which {@linkplain Range#encloses(Range) encloses} all ranges * in this range set." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="126" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="CHINESE" value="127" />
+        <entry key="ENGLISH" value="128" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
