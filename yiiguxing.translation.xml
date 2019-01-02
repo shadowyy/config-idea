@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Request Header Fields Too Large" />
+      <item value="Upgrade Required" />
+      <item value="Unprocessable Entity" />
+      <item value="Destination Locked" />
+      <item value="teapot" />
+      <item value="Conflict" />
+      <item value="&quot;Request Timeout&quot;" />
+      <item value="&quot;Proxy Authentication Required&quot;" />
       <item value="* Fixed count query creation for manually declared queries with &quot;order by&quot; clause (DATAJPA-142)" />
       <item value="Domin" />
       <item value="* Returns the page to be returned." />
@@ -43,19 +51,11 @@
       <item value="定时" />
       <item value="收件人群组" />
       <item value="模版" />
-      <item value="抄送" />
-      <item value="收件人" />
-      <item value="抄送人" />
-      <item value="引号" />
-      <item value="followed by `|` from the line." />
-      <item value="Strip a leading prefix consisting of blanks or control characters" />
-      <item value="For every line in this string:" />
-      <item value="** For every line in this string: * * Strip a leading prefix consisting of blanks or control characters * followed by `|` from the line." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="138" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
