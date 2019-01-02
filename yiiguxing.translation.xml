@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Fixed count query creation for manually declared queries with &quot;order by&quot; clause (DATAJPA-142)" />
       <item value="Domin" />
       <item value="* Returns the page to be returned." />
       <item value="* Returns the number of items to be returned." />
@@ -50,12 +51,11 @@
       <item value="Strip a leading prefix consisting of blanks or control characters" />
       <item value="For every line in this string:" />
       <item value="** For every line in this string: * * Strip a leading prefix consisting of blanks or control characters * followed by `|` from the line." />
-      <item value="可以在方法名后面加一个空格和下划线" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="ENGLISH" value="131" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
