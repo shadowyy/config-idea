@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Domin" />
+      <item value="* Returns the page to be returned." />
+      <item value="* Returns the number of items to be returned." />
       <item value="* Defines the projection part of the count query that is generated for pagination. If neither {@link #countQuery()} * not {@link #countProjection()} is configured we will derive the count query from the method name." />
       <item value="pagination" />
       <item value="This will offer * you a more sophisticated interface than the plain {@link EntityManager} ." />
@@ -48,14 +51,11 @@
       <item value="For every line in this string:" />
       <item value="** For every line in this string: * * Strip a leading prefix consisting of blanks or control characters * followed by `|` from the line." />
       <item value="可以在方法名后面加一个空格和下划线" />
-      <item value="省略了吧" />
-      <item value="其实这也是个匿名函数" />
-      <item value="显示地告诉编译器这是个函数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="130" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
