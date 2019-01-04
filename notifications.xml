@@ -1,5 +1,5 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Json Parser" shouldLog="false" />
+    <notification groupId="Json Parser" displayType="NONE" shouldLog="false" />
   </component>
 </application>
