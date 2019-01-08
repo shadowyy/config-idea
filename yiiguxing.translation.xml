@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Between" />
+      <item value="* Create a proxy for the wrapped object allowing to typesafely invoke * methods on it using a custom interface * * @param proxyType The interface type that is implemented by the proxy * @return A proxy for the wrapped object */" />
       <item value="* convert sourceObject to desObject,only param type is identical" />
       <item value="Request Header Fields Too Large" />
       <item value="Upgrade Required" />
@@ -49,8 +51,6 @@
       <item value="已发邮件" />
       <item value="send mail" />
       <item value="timing" />
-      <item value="定时" />
-      <item value="收件人群组" />
     </histories>
     <option name="languageScores">
       <map>
