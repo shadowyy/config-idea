@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Authentication" />
       <item value="Cairo" />
       <item value="* &lt;p&gt;Spring features such as asynchronous method execution, scheduled task execution, * annotation driven transaction management, and even Spring MVC can be enabled and * configured from {@code @Configuration} classes using their respective &quot;{@code @Enable}&quot; * annotations. See" />
       <item value="* The application should run as a reactive web application and should start an * embedded reactive web server." />
@@ -50,7 +51,6 @@
       <item value="Interface used to indicate that a bean should &lt;em&gt;run&lt;/em&gt; when it is contained within * a {@link SpringApplication}. Multiple {@link CommandLineRunner} beans can be defined * within the same application context and can be ordered using the {@link Ordered} * interface or {@link Order @Order} annotation. * &lt;p&gt; * If you need access to {@link ApplicationArguments} instead of the raw String array * consider using {@link ApplicationRunner}." />
       <item value="* &lt;p&gt;Splits a String by Character type as returned by * {@code java.lang.Character.getType(char)}. Groups of contiguous * characters of the same type are returned as complete tokens, with the * following exception: the character of type * {@code Character.UPPERCASE_LETTER}, if any, immediately * preceding a token of type {@code Character.LOWERCASE_LETTER} * will belong to the following token rather than to the preceding, if any, * {@code Character.UPPERCASE_LETTER} token." />
       <item value="selecte" />
-      <item value="job name" />
     </histories>
     <option name="languageScores">
       <map>
