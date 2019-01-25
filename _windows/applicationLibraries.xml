@@ -5,6 +5,11 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="3.6 @ Ubuntu interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Python 2.7 interpreter library">
       <CLASSES>
         <root url="file://C:/Python27/DLLs" />
