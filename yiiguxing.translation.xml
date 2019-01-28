@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="local" />
       <item value="Authentication" />
       <item value="Cairo" />
       <item value="* &lt;p&gt;Spring features such as asynchronous method execution, scheduled task execution, * annotation driven transaction management, and even Spring MVC can be enabled and * configured from {@code @Configuration} classes using their respective &quot;{@code @Enable}&quot; * annotations. See" />
@@ -50,7 +51,6 @@
       <item value="* This realm implementation acts as a CAS client to a CAS server for authentication and basic authorization. * &lt;p/&gt; * This realm functions by inspecting a submitted {@link org.apache.shiro.cas.CasToken CasToken} (which essentially * wraps a CAS service ticket) and validates it against the CAS server using a configured CAS * {@link org.jasig.cas.client.validation.TicketValidator TicketValidator}. * &lt;p/&gt; * The {@link #getValidationProtocol() validationProtocol} is {@code CAS} by default, which indicates that a * a {@link org.jasig.cas.client.validation.Cas20ServiceTicketValidator Cas20ServiceTicketValidator} * will be used for ticket validation. You can alternatively set * or {@link org.jasig.cas.client.validation.Saml11TicketValidator Saml11TicketValidator} of CAS client. It is based on * {@link AuthorizingRealm AuthorizingRealm} for both authentication and authorization. User id and attributes are retrieved from the CAS * service ticket validation response during authentication phase. Roles and permissions are computed during authorization phase (according * to the attributes previously retrieved). * * @since 1.2 * @see &lt;a href=&quot;https://github.com/bujiio/buji-pac4j&quot;&gt;buji-pac4j&lt;/a&gt; * @deprecated replaced with Shiro integration in &lt;a href=&quot;https://github.com/bujiio/buji-pac4j&quot;&gt;buji-pac4j&lt;/a&gt;." />
       <item value="Interface used to indicate that a bean should &lt;em&gt;run&lt;/em&gt; when it is contained within * a {@link SpringApplication}. Multiple {@link CommandLineRunner} beans can be defined * within the same application context and can be ordered using the {@link Ordered} * interface or {@link Order @Order} annotation. * &lt;p&gt; * If you need access to {@link ApplicationArguments} instead of the raw String array * consider using {@link ApplicationRunner}." />
       <item value="* &lt;p&gt;Splits a String by Character type as returned by * {@code java.lang.Character.getType(char)}. Groups of contiguous * characters of the same type are returned as complete tokens, with the * following exception: the character of type * {@code Character.UPPERCASE_LETTER}, if any, immediately * preceding a token of type {@code Character.LOWERCASE_LETTER} * will belong to the following token rather than to the preceding, if any, * {@code Character.UPPERCASE_LETTER} token." />
-      <item value="selecte" />
     </histories>
     <option name="languageScores">
       <map>
