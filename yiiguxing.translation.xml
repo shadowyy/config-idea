@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// Here we use HTTP basic authentication as the way to get the logged-in user name // For simplicity, the credential is not verified, you should implement and use your own // authentication before the authorization. // In this example, we assume &quot;cathy:123&quot; is a legal user." />
       <item value="/** Represents not generating anything or the complete lack of a method. */" />
       <item value="evict" />
       <item value="true if POST only logout is enabled" />
@@ -50,12 +51,11 @@
       <item value="//Can be override by one of class children and you will see child class name in log. Sometimes it can be confusing because log actually is performed in parent class" />
       <item value="Advice" />
       <item value="comma" />
-      <item value="sord" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="154" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
