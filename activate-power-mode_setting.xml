@@ -1,0 +1,6 @@
+<application>
+  <component name="activate-power-mode">
+    <option name="MAX_CLICK_COMBO" value="225" />
+    <option name="PARTICLE_MAX_COUNT" value="2" />
+  </component>
+</application>
