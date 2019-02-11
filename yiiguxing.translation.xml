@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hungry" />
+      <item value="饿" />
       <item value="Defines callback methods to customize the Java-based configuration for * Spring MVC enabled via {@code @EnableWebMvc}. * * &lt;p&gt;{@code @EnableWebMvc}-annotated configuration classes may implement * this interface to be called back and given a chance to customize the * default configuration. * * @author Rossen Stoyanchev * @author Keith Donald * @author David Syer * @since 3.1 */" />
       <item value="* Add Spring MVC lifecycle interceptors for pre- and post-processing of * controller method invocations. Interceptors can be registered to apply * to all requests or be limited to a subset of URL patterns. * &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt; that interceptors registered here only apply to * controllers and not to resource handler requests. To intercept requests for * static resources either declare a * {@link org.springframework.web.servlet.handler.MappedInterceptor MappedInterceptor} * bean or switch to advanced configuration mode by extending * {@link org.springframework.web.servlet.config.annotation.WebMvcConfigurationSupport * WebMvcConfigurationSupport} and then override {@code resourceHandlerMapping}. */" />
       <item value="* Set if the filter mappings should be matched after any declared filter mappings of * the ServletContext. Defaults to {@code false} indicating the filters are supposed * to be matched before any declared filter mappings of the ServletContext. * @param matchAfter if filter mappings are matched after */" />
@@ -49,8 +51,6 @@
       <item value="* Returns the page to be returned." />
       <item value="* Returns the number of items to be returned." />
       <item value="* Defines the projection part of the count query that is generated for pagination. If neither {@link #countQuery()} * not {@link #countProjection()} is configured we will derive the count query from the method name." />
-      <item value="pagination" />
-      <item value="This will offer * you a more sophisticated interface than the plain {@link EntityManager} ." />
     </histories>
     <option name="languageScores">
       <map>
