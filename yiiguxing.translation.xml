@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* An base interface for all rich user-defined functions. This class defines methods for * the life cycle of the functions, as well as methods to access the context in which the functions * are executed. */" />
+      <item value="* An base interface for all rich user-defined functions. This class defines methods for * the life cycle of the functions, as well as methods to access the context in which the functions" />
       <item value="* &lt;p&gt;This setting will only have effect if checkpointing is enabled for the job." />
       <item value="/** Start from committed offsets in ZK / Kafka brokers of a specific consumer group (default). */" />
       <item value="start from specified epoch timestamp (milliseconds" />
@@ -49,13 +51,11 @@
       <item value="teapot" />
       <item value="Conflict" />
       <item value="&quot;Request Timeout&quot;" />
-      <item value="&quot;Proxy Authentication Required&quot;" />
-      <item value="* Fixed count query creation for manually declared queries with &quot;order by&quot; clause (DATAJPA-142)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="159" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="CHINESE" value="160" />
+        <entry key="ENGLISH" value="161" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
