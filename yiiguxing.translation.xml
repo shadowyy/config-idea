@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* &lt;p&gt;This setting will only have effect if checkpointing is enabled for the job." />
       <item value="/** Start from committed offsets in ZK / Kafka brokers of a specific consumer group (default). */" />
       <item value="start from specified epoch timestamp (milliseconds" />
       <item value="start from specified epoch timestamp" />
@@ -50,12 +51,11 @@
       <item value="&quot;Request Timeout&quot;" />
       <item value="&quot;Proxy Authentication Required&quot;" />
       <item value="* Fixed count query creation for manually declared queries with &quot;order by&quot; clause (DATAJPA-142)" />
-      <item value="Domin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="158" />
-        <entry key="ENGLISH" value="159" />
+        <entry key="CHINESE" value="159" />
+        <entry key="ENGLISH" value="160" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
