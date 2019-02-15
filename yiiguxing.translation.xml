@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Set to true if running a streaming pipeline. This will be automatically set to true if the * pipeline contains an Unbounded PCollection. */" />
+      <item value="&quot;Set to true if running a streaming pipeline. This will be automatically set to &quot; + &quot;true if the pipeline contains an Unbounded PCollection." />
       <item value="* Wrapper method over {@link WriteRecords#withEOS(int, String)}, used to keep the compatibility * with old API based on KV type of element." />
       <item value="* An base interface for all rich user-defined functions. This class defines methods for * the life cycle of the functions, as well as methods to access the context in which the functions * are executed. */" />
       <item value="* An base interface for all rich user-defined functions. This class defines methods for * the life cycle of the functions, as well as methods to access the context in which the functions" />
@@ -49,13 +51,11 @@
       <item value="Upgrade Required" />
       <item value="Unprocessable Entity" />
       <item value="Destination Locked" />
-      <item value="teapot" />
-      <item value="Conflict" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="161" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="CHINESE" value="162" />
+        <entry key="ENGLISH" value="163" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
