@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Wrapper method over {@link WriteRecords#withEOS(int, String)}, used to keep the compatibility * with old API based on KV type of element." />
       <item value="* An base interface for all rich user-defined functions. This class defines methods for * the life cycle of the functions, as well as methods to access the context in which the functions * are executed. */" />
       <item value="* An base interface for all rich user-defined functions. This class defines methods for * the life cycle of the functions, as well as methods to access the context in which the functions" />
       <item value="* &lt;p&gt;This setting will only have effect if checkpointing is enabled for the job." />
@@ -50,12 +51,11 @@
       <item value="Destination Locked" />
       <item value="teapot" />
       <item value="Conflict" />
-      <item value="&quot;Request Timeout&quot;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="CHINESE" value="161" />
+        <entry key="ENGLISH" value="162" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
