@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&lt;p&gt;Often you might want to write just values without any keys to Kafka. Use {@code values()} to * write records with default empty(null) key:" />
+      <item value="null" />
       <item value="* Set to true if running a streaming pipeline. This will be automatically set to true if the * pipeline contains an Unbounded PCollection. */" />
       <item value="&quot;Set to true if running a streaming pipeline. This will be automatically set to &quot; + &quot;true if the pipeline contains an Unbounded PCollection." />
       <item value="* Wrapper method over {@link WriteRecords#withEOS(int, String)}, used to keep the compatibility * with old API based on KV type of element." />
@@ -49,8 +51,6 @@
       <item value="* convert sourceObject to desObject,only param type is identical" />
       <item value="Request Header Fields Too Large" />
       <item value="Upgrade Required" />
-      <item value="Unprocessable Entity" />
-      <item value="Destination Locked" />
     </histories>
     <option name="languageScores">
       <map>
