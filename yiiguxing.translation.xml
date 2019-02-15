@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Executes the program in a pipelined fashion (including shuffles and broadcasts), * &lt;strong&gt;including&lt;/strong&gt; data exchanges that are susceptible to deadlocks when * executed via pipelining. * * Usually, {@link #PIPELINED} is the preferable option, which pipelines most * data exchanges and only uses batch data exchanges in situations that are * susceptible to deadlocks. * * This option should only be used with care and only in situations where the * programmer is sure that the program is safe for full pipelining and that * Flink was too conservative when choosing the batch exchange at a certain * point." />
       <item value="&lt;p&gt;Often you might want to write just values without any keys to Kafka. Use {@code values()} to * write records with default empty(null) key:" />
       <item value="null" />
       <item value="* Set to true if running a streaming pipeline. This will be automatically set to true if the * pipeline contains an Unbounded PCollection. */" />
@@ -50,12 +51,11 @@
       <item value="* Create a proxy for the wrapped object allowing to typesafely invoke * methods on it using a custom interface * * @param proxyType The interface type that is implemented by the proxy * @return A proxy for the wrapped object */" />
       <item value="* convert sourceObject to desObject,only param type is identical" />
       <item value="Request Header Fields Too Large" />
-      <item value="Upgrade Required" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="CHINESE" value="163" />
+        <entry key="ENGLISH" value="164" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
